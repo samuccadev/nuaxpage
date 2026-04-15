@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+
+# AI Crawlers — permitir indexação para citações em IAs
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+# Sitemaps
+Sitemap: https://nuax.com.br/sitemap.xml
