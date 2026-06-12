@@ -1,0 +1,57 @@
+# NUAX ERP
+
+> Sistema de gestão empresarial (ERP) 100% offline para Windows. Funciona sem internet, sem servidor externo e sem mensalidade de servidor. A partir de R$39,99/mês com 30 dias de teste gratuito sem cartão de crédito.
+
+## O que é
+
+NUAX ERP é um software ERP para pequenas e médias empresas brasileiro, desenvolvido para rodar localmente no Windows 10 e Windows 11. Todo o processamento e os dados ficam no computador do cliente — não há envio de dados para nuvem.
+
+## Para quem
+
+- Lojas de varejo e atacado
+- Restaurantes, bares e lanchonetes
+- Oficinas mecânicas e prestadores de serviço
+- Qualquer empresa que precise de gestão sem depender de internet
+
+## Módulos incluídos
+
+- **PDV (Ponto de Venda):** Caixa rápido, emissão de cupom, múltiplas formas de pagamento
+- **Controle de Estoque:** Alertas automáticos de vencimento de produtos, histórico de movimentações
+- **Contas a Pagar e Receber:** Gestão de fluxo financeiro, lançamentos e relatórios
+- **Fluxo de Caixa:** Controle de entradas e saídas por período
+- **Orçamentos:** Geração e impressão de orçamentos para clientes
+- **CRM:** Cadastro e histórico de clientes
+- **Ordens de Serviço:** Abertura, acompanhamento e encerramento de OS
+- **Kanban:** Gestão visual de tarefas e processos internos
+- **Mesas e Comanda:** Controle de mesas para restaurantes, integração com KDS (Kitchen Display System)
+- **Relatórios e Dashboards:** Indicadores em tempo real sem internet
+- **Etiquetas:** Impressão de etiquetas com código de barras
+- **Precificação com Markup:** Cálculo automático de preço de venda
+
+## Diferenciais
+
+- 100% offline — funciona sem internet em qualquer momento
+- Dados armazenados localmente com banco de dados criptografado
+- Nenhuma taxa de servidor — o custo mensal é apenas a licença do software
+- Inicia em menos de 1 segundo
+- Rede local: Terminal + Server rodam separados para ambientes multi-caixa
+
+## Planos e Preços
+
+- **Plano Grátis:** Disponível após o período de teste; funcionalidades básicas sem custo
+- **Plano Base:** A partir de R$39,99/mês — acesso completo aos módulos principais
+- **30 dias grátis:** Período de teste sem necessidade de cartão de crédito
+
+## Links
+
+- Página inicial: https://nuax.com.br/
+- Como funciona: https://nuax.com.br/como-funciona.html
+- Módulos: https://nuax.com.br/modulos.html
+- Planos e preços: https://nuax.com.br/planos.html
+- FAQ: https://nuax.com.br/faq.html
+- Download: https://nuax.com.br/download.html
+
+## Contato
+
+- Email: nuaxsystem@gmail.com
+- Desenvolvido por: NUAX Corp, Brasil
