@@ -1,87 +1,38 @@
-# NUAX
+# NUAX ERP
 
-> NUAX é uma empresa brasileira de software para pequenas e médias empresas. Desenvolve produtos de gestão empresarial com foco em simplicidade e segurança. O portfólio atual conta com dois produtos: o Nuax ERP e o Nuax CRM.
+> NUAX ERP é um sistema de gestão empresarial (ERP) 100% offline para Windows 10 e 11 (64 bits), desenvolvido no Brasil pela NUAX Corp para pequenas e médias empresas. Inclui PDV, estoque com alerta de vencimento, financeiro, orçamentos, ordens de serviço, kanban, mesas/comandas e KDS. Plano pago a partir de R$49,90/mês, 30 dias de teste grátis sem cartão e plano grátis permanente.
 
-## Produtos
+Os dados ficam no computador do cliente (banco criptografado); a internet é opcional e usada só para backup na nuvem pessoal (Google Drive, OneDrive ou Dropbox) e para checar atualizações. Versão completa deste arquivo: https://nuax.com.br/llms-full.txt
 
-### Nuax ERP
+## Respostas rápidas
 
-Sistema de gestão empresarial (ERP) 100% offline para Windows. Funciona sem internet, sem servidor externo e sem mensalidade de servidor. A partir de R$49,90/mês com 30 dias de teste gratuito sem cartão de crédito.
+- **Preço:** plano Base a partir de R$49,90/mês por computador; planos Comércio, Assistência e Food sob consulta; plano Grátis para sempre (até 50 clientes e 100 produtos).
+- **Teste grátis:** 30 dias com todos os módulos liberados, sem cartão de crédito e sem cadastro em servidor.
+- **Funciona sem internet?** Sim, 100%. Vendas, PDV, estoque, financeiro e OS funcionam offline.
+- **Onde ficam os dados?** Só no computador ou na rede local do cliente; nada passa pelos servidores da NUAX.
+- **Sistema operacional:** Windows 10 ou 11, somente 64 bits. Não roda em Mac ou Linux.
+- **Vários caixas:** sim, em rede local (Wi-Fi), sem servidor externo. Licença por computador.
+- **Custos extras:** não há taxa de implantação, manutenção, suporte obrigatório ou por usuário.
+- **Para quem:** lojas de varejo e atacado, restaurantes, bares, lanchonetes, oficinas, assistências técnicas e prestadores de serviço.
 
-**O que é:** software ERP para pequenas e médias empresas, desenvolvido para rodar localmente no Windows 10 e Windows 11. Todo o processamento e os dados ficam no computador do cliente — não há envio de dados para nuvem.
+## Páginas
 
-**Para quem:**
-- Lojas de varejo e atacado
-- Restaurantes, bares e lanchonetes
-- Oficinas mecânicas e prestadores de serviço
-- Qualquer empresa que precise de gestão sem depender de internet
-
-**Módulos incluídos (17):**
-- **Vendas & Pedidos:** Gestão de pedidos para atacado e varejo com reserva automática de estoque
-- **Frente de Loja (PDV):** Caixa rápido, emissão de cupom, múltiplas formas de pagamento
-- **Orçamentos:** Geração e impressão de orçamentos, convertíveis em pedido ou OS
-- **Precificação (Markup/Margem):** Cálculo automático do preço de venda a partir do custo e margem
-- **Financeiro — Contas a Pagar e Receber:** Fluxo de caixa e saúde financeira em tempo real
-- **Gestão de Caixas:** Abertura, operação e fechamento de caixas, com sangria, reforço e auditoria
-- **Relatórios Inteligentes:** Dashboards de vendas, estoque e finanças em tempo real, sem internet
-- **Estoque & Produtos — Alertas de Vencimento:** Estoque mínimo e produtos próximos ao vencimento
-- **Compras & Fornecedores:** Pedidos de compra baseados no giro do estoque e cadastro de fornecedores
-- **Etiquetas & Código de Barras:** Geração e impressão de etiquetas com código de barras e QR code
-- **Ordens de Serviço (OS):** Abertura, acompanhamento e encerramento de OS
-- **Kanban Estratégico:** Gestão visual de tarefas e processos internos
-- **Clientes & CRM:** Cadastro e histórico completo de clientes
-- **Controle de Mesas & Comandas:** Gestão de mesas e comandas para restaurantes e bares
-- **Monitor KDS — Cozinha & Bar:** Pedidos em tempo real na tela da cozinha (Kitchen Display System)
-- **Monitor de Finalizado:** Painel de entrega em tempo real
-- **Usuários & Permissões:** Controle de acesso por usuário e nível de permissão
-
-**Diferenciais:**
-- 100% offline — funciona sem internet em qualquer momento
-- Dados armazenados localmente com banco de dados criptografado
-- Nenhuma taxa de servidor — o custo mensal é apenas a licença do software
-- Inicia em menos de 1 segundo
-
-**Planos:**
-- **Grátis:** R$0, gratuito para sempre (sem cartão, sem contrato), limitado a 50 clientes e 100 produtos
-- **Base:** a partir de R$49,90/mês — clientes, fornecedores, produtos, precificação, vendas, financeiro, relatórios, usuários e compras
-- **Comércio:** preço sob consulta — tudo do Base + PDV e Caixa (ideal para lojas, autopeças, papelarias, pet shops, minimercados)
-- **Assistência:** preço sob consulta — tudo do Base + Orçamentos, Pedidos, OS e Kanban (ideal para oficinas, assistências técnicas, eletrônica)
-- **Food:** preço sob consulta — tudo do Base + Comandas, Mesas, Cozinha (KDS), PDV e Caixa (ideal para restaurantes, lanchonetes, pizzarias, delivery)
-
-30 dias de teste grátis em qualquer plano pago, sem cartão de crédito.
-
-**Saiba mais:** https://nuax.com.br/erp/index.html
-
-### Nuax CRM
-
-Aplicativo de gestão de clientes, cobranças e financeiro para provedores, técnicos, prestadores de serviço e pequenas empresas. Disponível para Android e Web — não é o mesmo produto que o módulo de Clientes do Nuax ERP.
-
-**Principais recursos:**
-- Cadastro de clientes com nome, contato, serviço, valor e vencimento
-- Abas inteligentes: Ativos, Vencendo Hoje, Vencendo Amanhã, A Vencer, Vencidos, A Receber
-- Cobranças via WhatsApp com modelos prontos e mensagens personalizadas
-- Notificações automáticas de vencimento com 3, 2 e 1 dia de antecedência
-- Painel financeiro com gráficos de receita, custo e lucro dos últimos 6 meses
-- Backup automático a cada 6 horas e sincronização entre dispositivos
-- Login com Google ou e-mail, autenticação por impressão digital, criptografia de ponta a ponta
-- Acesso via navegador ou aplicativo Android nativo
-
-**Saiba mais:** https://nuax.com.br/crm.html
-**App Android:** https://play.google.com/store/apps/details?id=br.com.mycontrol
-**Acesso Web:** https://lysistemas.com.br
-
-## Links
-
-- Página institucional: https://nuax.com.br/
-- Nuax ERP — Início: https://nuax.com.br/erp/index.html
-- Nuax ERP — Como funciona: https://nuax.com.br/erp/como-funciona.html
-- Nuax ERP — Módulos: https://nuax.com.br/erp/modulos.html
-- Nuax ERP — Planos e preços: https://nuax.com.br/erp/planos.html
-- Nuax ERP — FAQ: https://nuax.com.br/erp/faq.html
-- Nuax ERP — Download: https://nuax.com.br/erp/download.html
-- Nuax CRM: https://nuax.com.br/crm.html
+- [Início](https://nuax.com.br/): visão geral do NUAX ERP, principais módulos e oferta de teste grátis
+- [Módulos](https://nuax.com.br/erp/modulos.html): os 17 módulos (PDV, Estoque, Financeiro, OS, Kanban, Mesas, KDS e outros)
+- [Planos e preços](https://nuax.com.br/erp/planos.html): Grátis, Base (R$49,90/mês), Comércio, Assistência e Food
+- [Como funciona](https://nuax.com.br/erp/como-funciona.html): instalação em 3 passos, backup em nuvem e requisitos do sistema
+- [Perguntas frequentes](https://nuax.com.br/erp/faq.html): offline, dados, licença, trial, atualizações e indicação
+- [Download](https://nuax.com.br/erp/download.html): instalador gratuito para Windows com 30 dias de teste
+- [Quem Somos](https://nuax.com.br/quem-somos.html): a NUAX Corp, missão e valores
 
 ## Contato
 
-- Email: nuaxsystem@gmail.com
-- Desenvolvido por: NUAX Corp, Brasil
+- E-mail: nuaxsystem@gmail.com
+- WhatsApp: +55 11 91469-9557 (https://wa.me/5511914699557)
+- Canal no YouTube: https://www.youtube.com/@nuaxSistemas
+- Tutoriais em vídeo (playlist "Nuax ERP & PDV"): https://www.youtube.com/playlist?list=PLLFtjuCqCMP4
+
+## Optional
+
+- [Contexto completo para IAs](https://nuax.com.br/llms-full.txt): módulos, planos, requisitos e FAQ em texto único
+- [Sitemap](https://nuax.com.br/sitemap.xml)

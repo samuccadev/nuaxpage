@@ -1,0 +1,105 @@
+# NUAX ERP — contexto completo
+
+> NUAX ERP é um sistema de gestão empresarial (ERP) 100% offline para Windows 10 e 11 (64 bits), desenvolvido no Brasil pela NUAX Corp para pequenas e médias empresas. Plano pago a partir de R$49,90/mês, 30 dias de teste grátis sem cartão e plano grátis permanente. Site oficial: https://nuax.com.br/
+
+Última atualização: 2026-09-29. Resumo curto: https://nuax.com.br/llms.txt
+
+## O que é
+
+Software ERP que roda localmente no Windows. Todo o processamento e os dados ficam no computador do cliente, em banco de dados criptografado, sem servidor externo e sem mensalidade de servidor. A internet é opcional: usada apenas para backup automático na nuvem pessoal do cliente (Google Drive, OneDrive ou Dropbox) e para verificar atualizações ao abrir o sistema. O sistema inicia em menos de 1 segundo.
+
+## Para quem
+
+- Lojas de varejo e atacado (autopeças, papelarias, pet shops, minimercados)
+- Restaurantes, bares, lanchonetes, pizzarias e delivery
+- Oficinas mecânicas, assistências técnicas e prestadores de serviço
+- Qualquer empresa que precise de gestão sem depender de internet
+
+## Módulos (17)
+
+- **Vendas & Pedidos:** gestão de pedidos para atacado e varejo com reserva automática de estoque
+- **Frente de Loja (PDV):** caixa rápido, emissão de cupom, múltiplas formas de pagamento
+- **Orçamentos:** geração e impressão de orçamentos, convertíveis em pedido ou OS
+- **Precificação (Markup/Margem):** cálculo automático do preço de venda a partir do custo e da margem; preços promocionais temporários
+- **Financeiro — Contas a Pagar e Receber:** fluxo de caixa e saúde financeira em tempo real
+- **Gestão de Caixas:** abertura, operação e fechamento de caixas, com sangria, reforço e auditoria
+- **Relatórios Inteligentes:** dashboards de vendas, estoque e finanças em tempo real, sem internet
+- **Estoque & Produtos — Alertas de Vencimento:** estoque mínimo e aviso de produtos próximos ao vencimento
+- **Compras & Fornecedores:** pedidos de compra baseados no giro do estoque e cadastro de fornecedores
+- **Etiquetas & Código de Barras:** geração e impressão de etiquetas com código de barras e QR code
+- **Ordens de Serviço (OS):** abertura, acompanhamento e encerramento de OS
+- **Kanban Estratégico:** gestão visual de pedidos e ordens por estágio
+- **Clientes & CRM:** cadastro e histórico completo de clientes (módulo interno do ERP)
+- **Controle de Mesas & Comandas:** gestão de mesas e comandas para restaurantes e bares
+- **Monitor KDS — Cozinha & Bar:** pedidos em tempo real na tela da cozinha, via rede local
+- **Monitor de Finalizado:** painel de entrega em tempo real
+- **Usuários & Permissões:** controle de acesso por usuário e por módulo
+
+Detalhes: https://nuax.com.br/erp/modulos.html
+
+## Planos
+
+- **Grátis:** R$0, para sempre, sem cartão e sem contrato; limitado a 50 clientes e 100 produtos
+- **Base:** a partir de R$49,90/mês — clientes, fornecedores, produtos, precificação, vendas, financeiro, relatórios, usuários e compras
+- **Comércio:** sob consulta — tudo do Base + PDV e Caixa
+- **Assistência:** sob consulta — tudo do Base + Orçamentos, Pedidos, OS e Kanban
+- **Food:** sob consulta — tudo do Base + Comandas, Mesas, Cozinha (KDS), PDV e Caixa
+
+Licença por computador (não por usuário). 30 dias de teste grátis em qualquer plano pago, sem cartão. Sem taxa de implantação, manutenção, suporte obrigatório, atualização ou usuário adicional.
+
+Detalhes: https://nuax.com.br/erp/planos.html
+
+## Requisitos do sistema
+
+- **Sistema operacional:** Windows 10 ou Windows 11, somente 64 bits (32 bits não suportado)
+- **Hardware:** computadores comuns de escritório
+- **Internet:** opcional (backup em nuvem e verificação de atualizações)
+- **Vários caixas/estações:** rede local Wi-Fi, sem servidor externo
+
+Instalação em 3 passos: https://nuax.com.br/erp/como-funciona.html
+
+## Perguntas frequentes
+
+**O NUAX funciona completamente sem internet?**
+Sim, 100%. Vendas, PDV, estoque, financeiro e ordens de serviço funcionam offline sem degradação. A internet é usada só para backup opcional na nuvem pessoal e verificação de atualizações.
+
+**Meus dados ficam em algum servidor da NUAX?**
+Não. Os dados ficam no computador ou na rede local do cliente. O backup vai direto para Google Drive, OneDrive ou Dropbox, sem passar pelos servidores da NUAX Corp.
+
+**Posso usar em vários computadores ao mesmo tempo?**
+Sim, cada computador precisa da sua própria licença.
+
+**Como funciona o período de teste?**
+30 dias completos com todos os módulos, sem cartão de crédito. Depois é preciso ativar uma licença; nenhum dado é perdido na transição.
+
+**Funciona no Mac ou Linux?**
+Não. No momento o NUAX ERP é exclusivo para Windows 10 e 11 (64 bits).
+
+**Como funcionam as atualizações?**
+Ao abrir, o sistema verifica novas versões (requer internet), baixa em segundo plano e pergunta se deseja instalar agora ou depois. Sem atualizações forçadas.
+
+**O NUAX avisa quando um produto está vencendo?**
+Sim. O módulo de Estoque emite alertas automáticos de produtos próximos ao vencimento, offline.
+
+**Controla contas a pagar e receber?**
+Sim. O módulo Financeiro inclui contas a pagar, contas a receber e fluxo de caixa, offline.
+
+**Existem taxas ocultas?**
+Não. Paga-se apenas o plano mensal.
+
+**Tem programa de indicação?**
+Sim. No lançamento, a cada 3 amigos indicados que assinarem qualquer plano, o indicador ganha 1 mês grátis. O amigo pede o teste por e-mail (nuaxsystem@gmail.com) informando o e-mail de quem indicou.
+
+Mais perguntas: https://nuax.com.br/erp/faq.html
+
+## Sobre a NUAX
+
+NUAX Corp é uma empresa brasileira de software para pequenas e médias empresas. Missão: entregar tecnologia de grande empresa com a simplicidade e o preço que uma pequena empresa merece. Suporte em português e preços em reais. https://nuax.com.br/quem-somos.html
+
+## Contato
+
+- E-mail: nuaxsystem@gmail.com
+- WhatsApp: +55 11 91469-9557 (https://wa.me/5511914699557)
+- Canal no YouTube: https://www.youtube.com/@nuaxSistemas
+- Tutoriais em vídeo (playlist "Nuax ERP & PDV"): https://www.youtube.com/playlist?list=PLLFtjuCqCMP4
+- Download: https://nuax.com.br/erp/download.html
