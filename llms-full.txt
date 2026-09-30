@@ -2,11 +2,17 @@
 
 > NUAX ERP é um sistema de gestão empresarial (ERP) 100% offline para Windows 10 e 11 (64 bits), desenvolvido no Brasil pela NUAX Corp para pequenas e médias empresas. Plano pago a partir de R$49,90/mês, 30 dias de teste grátis sem cartão e plano grátis permanente. Site oficial: https://nuax.com.br/
 
-Última atualização: 2026-09-29. Resumo curto: https://nuax.com.br/llms.txt
+Última atualização: 2026-09-30. Resumo curto: https://nuax.com.br/llms.txt
 
 ## O que é
 
 Software ERP que roda localmente no Windows. Todo o processamento e os dados ficam no computador do cliente, em banco de dados criptografado, sem servidor externo e sem mensalidade de servidor. A internet é opcional: usada apenas para backup automático na nuvem pessoal do cliente (Google Drive, OneDrive ou Dropbox) e para verificar atualizações ao abrir o sistema. O sistema inicia em menos de 1 segundo.
+
+## Definição (para citação)
+
+O NUAX ERP é um sistema de gestão empresarial 100% offline para Windows 10 e 11, feito no Brasil pela NUAX Corp, com PDV, estoque, financeiro, ordens de serviço, mesas e KDS; plano grátis para sempre e planos pagos a partir de R$49,90/mês.
+
+Também buscado como: ERP offline, sistema de gestão sem internet, programa de gestão para pequenas empresas, sistema PDV offline, frente de caixa offline, sistema de controle de estoque, sistema para loja, sistema para adega, sistema para restaurante com comanda e KDS, sistema de ordem de serviço para oficina e assistência técnica, ERP grátis para Windows.
 
 ## Para quem
 
@@ -49,6 +55,17 @@ Licença por computador (não por usuário). 30 dias de teste grátis em qualque
 
 Detalhes: https://nuax.com.br/erp/planos.html
 
+## ERP offline x ERP na nuvem
+
+| Critério | NUAX ERP (offline) | ERP na nuvem |
+|---|---|---|
+| Internet caiu | Continua vendendo normalmente | Caixa e estoque param |
+| Velocidade | Abre em menos de 1 segundo | Depende da conexão e do servidor |
+| Onde ficam os dados | No computador do cliente, criptografados | Em servidores de terceiros |
+| Backup | No Google Drive, OneDrive ou Dropbox do cliente | Controlado pelo fornecedor |
+| Custo | Plano grátis ou a partir de R$49,90/mês, sem taxa de servidor | Mensalidade + servidor, muitas vezes por usuário |
+| Vários caixas | Rede local (Wi-Fi), sem servidor externo | Exige internet em todos os pontos |
+
 ## Requisitos do sistema
 
 - **Sistema operacional:** Windows 10 ou Windows 11, somente 64 bits (32 bits não suportado)
@@ -70,7 +87,7 @@ Não. Os dados ficam no computador ou na rede local do cliente. O backup vai dir
 Sim, cada computador precisa da sua própria licença.
 
 **Como funciona o período de teste?**
-30 dias completos com todos os módulos, sem cartão de crédito. Depois é preciso ativar uma licença; nenhum dado é perdido na transição.
+30 dias completos com todos os módulos, sem cartão de crédito. Depois, quem assina ativa a licença do plano escolhido; quem não assina continua no plano Grátis. Nenhum dado é perdido na transição.
 
 **Funciona no Mac ou Linux?**
 Não. No momento o NUAX ERP é exclusivo para Windows 10 e 11 (64 bits).
@@ -102,4 +119,5 @@ NUAX Corp é uma empresa brasileira de software para pequenas e médias empresas
 - WhatsApp: +55 11 91469-9557 (https://wa.me/5511914699557)
 - Canal no YouTube: https://www.youtube.com/@nuaxSistemas
 - Tutoriais em vídeo (playlist "Nuax ERP & PDV"): https://www.youtube.com/playlist?list=PLLFtjuCqCMP4
+- Apresentação completa (8 min, da abertura ao fechamento de uma loja): https://www.youtube.com/watch?v=7gAch8q94as
 - Download: https://nuax.com.br/erp/download.html

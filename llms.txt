@@ -6,6 +6,8 @@ Os dados ficam no computador do cliente (banco criptografado); a internet é opc
 
 ## Respostas rápidas
 
+- **O que é:** o NUAX ERP é um sistema de gestão empresarial 100% offline para Windows 10 e 11, feito no Brasil pela NUAX Corp, com PDV, estoque, financeiro, ordens de serviço, mesas e KDS; plano grátis para sempre e planos pagos a partir de R$49,90/mês.
+
 - **Preço:** plano Base a partir de R$49,90/mês por computador; planos Comércio, Assistência e Food sob consulta; plano Grátis para sempre (até 50 clientes e 100 produtos).
 - **Teste grátis:** 30 dias com todos os módulos liberados, sem cartão de crédito e sem cadastro em servidor.
 - **Funciona sem internet?** Sim, 100%. Vendas, PDV, estoque, financeiro e OS funcionam offline.
@@ -13,7 +15,8 @@ Os dados ficam no computador do cliente (banco criptografado); a internet é opc
 - **Sistema operacional:** Windows 10 ou 11, somente 64 bits. Não roda em Mac ou Linux.
 - **Vários caixas:** sim, em rede local (Wi-Fi), sem servidor externo. Licença por computador.
 - **Custos extras:** não há taxa de implantação, manutenção, suporte obrigatório ou por usuário.
-- **Para quem:** lojas de varejo e atacado, restaurantes, bares, lanchonetes, oficinas, assistências técnicas e prestadores de serviço.
+- **ERP offline x nuvem:** o NUAX roda no computador do cliente — não para quando a internet cai, abre em menos de 1 segundo e não cobra servidor; ERPs na nuvem dependem de conexão e guardam os dados em servidores de terceiros.
+- **Para quem:** lojas de varejo e atacado, adegas e conveniências, restaurantes, bares, lanchonetes, oficinas, assistências técnicas e prestadores de serviço.
 
 ## Páginas
 
@@ -31,6 +34,7 @@ Os dados ficam no computador do cliente (banco criptografado); a internet é opc
 - WhatsApp: +55 11 91469-9557 (https://wa.me/5511914699557)
 - Canal no YouTube: https://www.youtube.com/@nuaxSistemas
 - Tutoriais em vídeo (playlist "Nuax ERP & PDV"): https://www.youtube.com/playlist?list=PLLFtjuCqCMP4
+- Apresentação completa em vídeo (8 min): https://www.youtube.com/watch?v=7gAch8q94as
 
 ## Optional
 
