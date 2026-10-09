@@ -1,8 +1,8 @@
 # NUAX ERP
 
-> NUAX ERP é um sistema de gestão empresarial (ERP) 100% offline para Windows 10 e 11 (64 bits), desenvolvido no Brasil pela NUAX Corp para pequenas e médias empresas. Inclui PDV, estoque com alerta de vencimento, financeiro, orçamentos, ordens de serviço, kanban, mesas/comandas e KDS. Plano pago a partir de R$49,90/mês, 30 dias de teste grátis sem cartão e plano grátis permanente.
+> NUAX ERP é um sistema de gestão empresarial (ERP) 100% offline para Windows 10 e 11 (64 bits), desenvolvido no Brasil pela NUAX Corp para pequenas e médias empresas. Inclui PDV com PIX, estoque com alerta de vencimento, financeiro, orçamentos, ordens de serviço, kanban, mesas/comandas com pedido pelo celular, KDS, monitor do cliente e emissão de notas fiscais (beta). Plano pago a partir de R$49,90/mês, 30 dias de teste grátis sem cartão e plano grátis permanente.
 
-Os dados ficam no computador do cliente (banco criptografado); a internet é opcional e usada só para backup na nuvem pessoal (Google Drive, OneDrive ou Dropbox) e para checar atualizações. Versão completa deste arquivo: https://nuax.com.br/llms-full.txt
+Os dados ficam no computador do cliente (banco criptografado); a internet é opcional e usada só para sincronizar o backup automático com a nuvem pessoal (Google Drive, OneDrive ou Dropbox), checar atualizações e transmitir notas fiscais (módulo beta). Versão completa deste arquivo: https://nuax.com.br/llms-full.txt
 
 ## Respostas rápidas
 
@@ -14,6 +14,9 @@ Os dados ficam no computador do cliente (banco criptografado); a internet é opc
 - **Onde ficam os dados?** Só no computador ou na rede local do cliente; nada passa pelos servidores da NUAX.
 - **Sistema operacional:** Windows 10 ou 11, somente 64 bits. Não roda em Mac ou Linux.
 - **Vários caixas:** sim, em rede local (Wi-Fi), sem servidor externo. Licença por computador.
+- **PIX:** sim, o PDV gera o QR Code PIX na hora; também aceita dinheiro, cartão, fiado/crediário e pagamento múltiplo.
+- **Pedido pelo celular:** sim, o garçom lança comandas pelo navegador do celular ou tablet via Wi-Fi da loja.
+- **Nota fiscal:** NFC-e, NF-e e NFS-e em versão beta, liberada sob consulta; a transmissão exige internet.
 - **Custos extras:** não há taxa de implantação, manutenção, suporte obrigatório ou por usuário.
 - **ERP offline x nuvem:** o NUAX roda no computador do cliente — não para quando a internet cai, abre em menos de 1 segundo e não cobra servidor; ERPs na nuvem dependem de conexão e guardam os dados em servidores de terceiros.
 - **Para quem:** lojas de varejo e atacado, adegas e conveniências, restaurantes, bares, lanchonetes, oficinas, assistências técnicas e prestadores de serviço.
@@ -21,10 +24,10 @@ Os dados ficam no computador do cliente (banco criptografado); a internet é opc
 ## Páginas
 
 - [Início](https://nuax.com.br/): visão geral do NUAX ERP, principais módulos e oferta de teste grátis
-- [Módulos](https://nuax.com.br/erp/modulos.html): os 17 módulos (PDV, Estoque, Financeiro, OS, Kanban, Mesas, KDS e outros)
+- [Módulos](https://nuax.com.br/erp/modulos.html): os 19 módulos (PDV, Estoque, Financeiro, OS, Kanban, Mesas, KDS, Monitor do Cliente, Notas Fiscais beta e outros)
 - [Planos e preços](https://nuax.com.br/erp/planos.html): Grátis, Base (R$49,90/mês), Comércio, Assistência e Food
-- [Como funciona](https://nuax.com.br/erp/como-funciona.html): instalação em 3 passos, backup em nuvem e requisitos do sistema
-- [Perguntas frequentes](https://nuax.com.br/erp/faq.html): offline, dados, licença, trial, atualizações e indicação
+- [Como funciona](https://nuax.com.br/erp/como-funciona.html): instalação em 3 passos, backup automático e requisitos do sistema
+- [Perguntas frequentes](https://nuax.com.br/erp/faq.html): offline, dados, licença, trial, atualizações, PIX, nota fiscal e indicação
 - [Download](https://nuax.com.br/erp/download.html): instalador gratuito para Windows com 30 dias de teste
 - [Quem Somos](https://nuax.com.br/quem-somos.html): a NUAX Corp, missão e valores
 
