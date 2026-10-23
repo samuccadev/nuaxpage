@@ -8,8 +8,9 @@ Os dados ficam no computador do cliente (banco criptografado); a internet é opc
 
 - **O que é:** o NUAX ERP é um sistema de gestão empresarial 100% offline para Windows 10 e 11, feito no Brasil pela NUAX Corp, com PDV, estoque, financeiro, ordens de serviço, mesas e KDS; plano grátis para sempre e planos pagos a partir de R$49,90/mês.
 
-- **Preço:** plano Base a partir de R$49,90/mês por computador; planos Comércio, Assistência e Food sob consulta; plano Grátis para sempre (até 50 clientes e 100 produtos).
-- **Teste grátis:** 30 dias com todos os módulos liberados, sem cartão de crédito e sem cadastro em servidor.
+- **Preço:** por computador, por mês — Base R$49,90, Comércio R$69,90, Assistência R$79,90 e Food R$89,90; plano Grátis para sempre (até 100 clientes e 200 produtos).
+- **Promoção de lançamento:** quem assina até 31/12/2026 paga o valor de lançamento para sempre (enquanto a assinatura estiver ativa), sem reajuste.
+- **Teste grátis:** 30 dias com todos os módulos liberados, sem cartão de crédito e sem cadastro em servidor. Após os 30 dias, se não assinar, o acesso volta para o plano Grátis automaticamente, sem perder o acesso nem os dados.
 - **Funciona sem internet?** Sim, 100%. Vendas, PDV, estoque, financeiro e OS funcionam offline.
 - **Onde ficam os dados?** Só no computador ou na rede local do cliente; nada passa pelos servidores da NUAX.
 - **Sistema operacional:** Windows 10 ou 11, somente 64 bits. Não roda em Mac ou Linux.
@@ -24,8 +25,8 @@ Os dados ficam no computador do cliente (banco criptografado); a internet é opc
 ## Páginas
 
 - [Início](https://nuax.com.br/): visão geral do NUAX ERP, principais módulos e oferta de teste grátis
-- [Módulos](https://nuax.com.br/erp/modulos.html): os 19 módulos (PDV, Estoque, Financeiro, OS, Kanban, Mesas, KDS, Monitor do Cliente, Notas Fiscais beta e outros)
-- [Planos e preços](https://nuax.com.br/erp/planos.html): Grátis, Base (R$49,90/mês), Comércio, Assistência e Food
+- [Módulos](https://nuax.com.br/erp/modulos.html): os 19 módulos (PDV, Estoque, Financeiro, OS, Kanban, Mesas, KDS, Monitor do Cliente, Etiquetas com código de barras beta, Notas Fiscais beta e outros)
+- [Planos e preços](https://nuax.com.br/erp/planos.html): Grátis, Base (R$49,90/mês), Comércio (R$69,90/mês), Assistência (R$79,90/mês) e Food (R$89,90/mês); assinando até 31/12/2026, o valor de lançamento vale para sempre
 - [Como funciona](https://nuax.com.br/erp/como-funciona.html): instalação em 3 passos, backup automático e requisitos do sistema
 - [Perguntas frequentes](https://nuax.com.br/erp/faq.html): offline, dados, licença, trial, atualizações, PIX, nota fiscal e indicação
 - [Download](https://nuax.com.br/erp/download.html): instalador gratuito para Windows com 30 dias de teste

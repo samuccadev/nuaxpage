@@ -32,7 +32,7 @@ Também buscado como: ERP offline, sistema de gestão sem internet, programa de 
 - **Relatórios Inteligentes:** dashboard e relatórios de vendas, produtos, clientes, financeiro, OS e comissão, com exportação CSV, sem internet
 - **Estoque & Produtos — Alertas de Vencimento:** estoque mínimo, validade e lote, aviso de produtos próximos ao vencimento e reposição rápida
 - **Compras & Fornecedores:** pedidos de compra, importação do XML da NF-e do fornecedor (sem duplicar nota) e cadastro de fornecedores
-- **Etiquetas & Código de Barras:** geração e impressão de etiquetas com código de barras
+- **Etiquetas & Código de Barras (beta):** impressão de etiquetas 50×30 mm com nome, código e código de barras EAN-13 ou CODE128 (sem QR code), seleção de produtos em lote, prévia e cópias por produto, em qualquer impressora com driver do Windows
 - **Ordens de Serviço (OS):** abertura, acompanhamento, encerramento e garantia de OS
 - **Kanban Estratégico:** gestão visual de pedidos e ordens por estágio
 - **Clientes & CRM:** cadastro e histórico completo de clientes (módulo interno do ERP)
@@ -47,11 +47,13 @@ Detalhes: https://nuax.com.br/erp/modulos.html
 
 ## Planos
 
-- **Grátis:** R$0, para sempre, sem cartão e sem contrato; limitado a 50 clientes e 100 produtos
-- **Base:** a partir de R$49,90/mês — clientes, fornecedores, produtos, precificação, vendas, financeiro, relatórios, usuários e compras
-- **Comércio:** sob consulta — tudo do Base + PDV e Caixa
-- **Assistência:** sob consulta — tudo do Base + Orçamentos, Pedidos, OS e Kanban
-- **Food:** sob consulta — tudo do Base + Comandas, Mesas, Cozinha (KDS), PDV e Caixa
+- **Grátis:** R$0, para sempre, sem cartão e sem contrato; limitado a 100 clientes e 200 produtos
+- **Base:** R$49,90/mês — clientes, fornecedores, produtos, precificação, vendas, financeiro, relatórios, usuários e compras
+- **Comércio:** R$69,90/mês — tudo do Base + PDV e Caixa
+- **Assistência:** R$79,90/mês — tudo do Base + Orçamentos, Pedidos, OS e Kanban
+- **Food:** R$89,90/mês — tudo do Base + Comandas, Mesas, Cozinha (KDS), PDV e Caixa
+
+**Promoção de lançamento:** quem assina um plano pago até 31/12/2026 paga o valor de lançamento para sempre, enquanto a assinatura estiver ativa — sem reajuste.
 
 Licença por computador (não por usuário). 30 dias de teste grátis em qualquer plano pago, sem cartão. Sem taxa de implantação, manutenção, suporte obrigatório, atualização ou usuário adicional.
 
@@ -89,7 +91,7 @@ Não. Os dados ficam no computador ou na rede local do cliente. O backup automá
 Sim, cada computador precisa da sua própria licença.
 
 **Como funciona o período de teste?**
-30 dias completos com todos os módulos, sem cartão de crédito. Depois, quem assina ativa a licença do plano escolhido; quem não assina continua no plano Grátis. Nenhum dado é perdido na transição.
+30 dias completos com todos os módulos, sem cartão de crédito. Após os 30 dias, se não quiser assinar, o acesso volta para o plano Grátis automaticamente — sem perder o acesso nem os dados. Quem assina ativa a licença do plano escolhido.
 
 **Funciona no Mac ou Linux?**
 Não. No momento o NUAX ERP é exclusivo para Windows 10 e 11 (64 bits).
@@ -114,6 +116,9 @@ Sim, em versão beta: NFC-e, NF-e e NFS-e a partir da venda, com certificado A1,
 
 **Importa a nota do fornecedor?**
 Sim. No módulo de Compras, o XML da NF-e é importado e a entrada é lançada automaticamente, com bloqueio de importação duplicada.
+
+**Imprime etiquetas com código de barras?**
+Sim, em versão beta. Você busca os produtos, seleciona vários de uma vez e imprime etiquetas de 50×30 mm com nome, código e código de barras EAN-13 ou CODE128, com prévia e número de cópias por produto. Funciona offline, em qualquer impressora com driver do Windows.
 
 **Existem taxas ocultas?**
 Não. Paga-se apenas o plano mensal.
