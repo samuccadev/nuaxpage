@@ -45,17 +45,25 @@ Também buscado como: ERP offline, sistema de gestão sem internet, programa de 
 
 Detalhes: https://nuax.com.br/erp/modulos.html
 
+## Edições (o que baixar)
+
+- **NUAX Studio:** para 1 computador. Instala e já funciona — ideal para autônomos e pequenos comércios.
+- **NUAX Entreprise (Servidor + Terminal):** para vários caixas/computadores na mesma rede local. Um computador é o Servidor (guarda os dados e precisa ficar ligado) e os demais usam o Terminal; um único instalador permite escolher Servidor, Terminal ou os dois e já libera o firewall do Windows na rede privada. A ativação em rede é feita pelo suporte NUAX (WhatsApp +55 11 91469-9557 ou nuaxsystem@gmail.com).
+- **Preço em rede:** valor do plano escolhido (inclui o primeiro computador) + R$19,90/mês por computador adicional. Exemplo: Comércio com 3 computadores = R$69,90 + 2 × R$19,90 = R$109,70/mês.
+
+Download das duas edições: https://nuax.com.br/erp/download.html
+
 ## Planos
 
 - **Grátis:** R$0, para sempre, sem cartão e sem contrato; limitado a 100 clientes e 200 produtos
 - **Base:** R$49,90/mês — clientes, fornecedores, produtos, precificação, vendas, financeiro, relatórios, usuários e compras
 - **Comércio:** R$69,90/mês — tudo do Base + PDV e Caixa
-- **Assistência:** R$79,90/mês — tudo do Base + Orçamentos, Pedidos, OS e Kanban
+- **Assistência:** R$69,90/mês — tudo do Base + Orçamentos, Pedidos, OS e Kanban
 - **Food:** R$89,90/mês — tudo do Base + Comandas, Mesas, Cozinha (KDS), PDV e Caixa
 
 **Promoção de lançamento:** quem assina um plano pago até 31/12/2026 paga o valor de lançamento para sempre, enquanto a assinatura estiver ativa — sem reajuste.
 
-Licença por computador (não por usuário). 30 dias de teste grátis em qualquer plano pago, sem cartão. Sem taxa de implantação, manutenção, suporte obrigatório, atualização ou usuário adicional.
+O plano vale para 1 computador (não cobra por usuário); em rede (NUAX Entreprise), + R$19,90/mês por computador adicional. 30 dias de teste grátis em qualquer plano pago, sem cartão. Sem taxa de implantação, manutenção, suporte obrigatório, atualização ou usuário adicional.
 
 Detalhes: https://nuax.com.br/erp/planos.html
 
@@ -75,7 +83,7 @@ Detalhes: https://nuax.com.br/erp/planos.html
 - **Sistema operacional:** Windows 10 ou Windows 11, somente 64 bits (32 bits não suportado)
 - **Hardware:** computadores comuns de escritório
 - **Internet:** opcional (sincronizar backup com a nuvem, verificar atualizações e transmitir notas fiscais no módulo beta)
-- **Vários caixas/estações:** rede local Wi-Fi, sem servidor externo
+- **Vários caixas/estações:** rede local Wi-Fi, sem servidor externo — edição NUAX Entreprise (Servidor + Terminal), ativada pelo suporte NUAX
 
 Instalação em 3 passos: https://nuax.com.br/erp/como-funciona.html
 
@@ -88,7 +96,7 @@ Sim, 100%. Vendas, PDV, estoque, financeiro e ordens de serviço funcionam offli
 Não. Os dados ficam no computador ou na rede local do cliente. O backup automático é gravado numa pasta escolhida pelo cliente; se ela estiver sincronizada com Google Drive, OneDrive ou Dropbox, a cópia vai para a nuvem dele, sem passar pelos servidores da NUAX Corp.
 
 **Posso usar em vários computadores ao mesmo tempo?**
-Sim, cada computador precisa da sua própria licença.
+Sim. O plano vale para 1 computador. Para usar em vários computadores na mesma rede, instale o NUAX Entreprise (um Servidor e os demais como Terminal) e pague o valor do plano + R$19,90/mês por computador adicional. A ativação em rede é feita pelo suporte.
 
 **Como funciona o período de teste?**
 30 dias completos com todos os módulos, sem cartão de crédito. Após os 30 dias, se não quiser assinar, o acesso volta para o plano Grátis automaticamente — sem perder o acesso nem os dados. Quem assina ativa a licença do plano escolhido.
@@ -137,6 +145,7 @@ NUAX Corp é uma empresa brasileira de software para pequenas e médias empresas
 - E-mail: nuaxsystem@gmail.com
 - WhatsApp: +55 11 91469-9557 (https://wa.me/5511914699557)
 - Canal no YouTube: https://www.youtube.com/@nuaxSistemas
+- Todos os vídeos do canal: https://www.youtube.com/@nuaxSistemas/videos
 - Tutoriais em vídeo (playlist "Nuax ERP & PDV"): https://www.youtube.com/playlist?list=PLLFtjuCqCMP4
 - Apresentação completa (8 min, da abertura ao fechamento de uma loja): https://www.youtube.com/watch?v=7gAch8q94as
 - Download: https://nuax.com.br/erp/download.html

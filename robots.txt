@@ -8,6 +8,7 @@ Allow: /
 # Buscadores
 User-agent: Googlebot
 User-agent: Bingbot
+User-agent: YandexBot
 User-agent: Applebot
 User-agent: DuckDuckBot
 Allow: /
@@ -20,6 +21,9 @@ User-agent: Claude-User
 User-agent: PerplexityBot
 User-agent: Perplexity-User
 User-agent: DuckAssistBot
+User-agent: MistralAI-User
+User-agent: Meta-ExternalFetcher
+User-agent: YouBot
 Allow: /
 
 # Assistentes de IA — treinamento de modelos (mantém a NUAX no conhecimento das IAs)
