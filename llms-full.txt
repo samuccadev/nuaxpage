@@ -136,6 +136,39 @@ Sim. No lançamento, a cada 3 amigos indicados que assinarem qualquer plano, o i
 
 Mais perguntas: https://nuax.com.br/erp/faq.html
 
+## Telas do sistema
+
+Capturas reais do NUAX ERP (1920×1032, PNG; versão WebP no mesmo caminho com extensão .webp). Toda tela tem o botão de ajuda (?) que abre o painel "Como usar".
+
+- [Painel inicial](https://nuax.com.br/assets/erp/dashboard.png): faturamento do dia e do mês, lucro, desempenho em 30 dias, radar de validades e estoque baixo
+- [PDV (frente de caixa)](https://nuax.com.br/assets/erp/pdv.png): venda rápida com PIX QR Code, cartão, dinheiro, fiado e pagamento múltiplo
+- [Vendas](https://nuax.com.br/assets/erp/vendas.png): receita bruta, ticket médio, filtros e situação de pagamento
+- [Estoque e produtos](https://nuax.com.br/assets/erp/produtos.png): estoque mínimo, validade e lote
+- [Financeiro](https://nuax.com.br/assets/erp/financeiro.png): contas a pagar e a receber e saldo projetado
+- [Ordens de serviço](https://nuax.com.br/assets/erp/os.png): OS abertas, em execução, concluídas e canceladas
+- [Mesas](https://nuax.com.br/assets/erp/mesa.png): controle de mesas para restaurante, bar e lanchonete
+- [Mesas no celular do garçom (plano Food)](https://nuax.com.br/assets/erp/food_mesa.png): mapa de mesas livres, ocupadas e reservadas por setor, pelo navegador do celular
+- [Comandas no celular (plano Food)](https://nuax.com.br/assets/erp/food_comanda.png): comandas com valor, saldo, impressão e envio para produção
+- [Comanda aberta no celular (plano Food)](https://nuax.com.br/assets/erp/food_comanda_aberta.png): lançar itens, pagamentos, transferir, juntar, separar e fechar a comanda
+- [KDS da cozinha](https://nuax.com.br/assets/erp/painel_cozinha.png): pedidos chegando em tempo real na cozinha
+- [Pedidos](https://nuax.com.br/assets/erp/pedidos.png): pedidos pendentes, valor em aberto e situação reservado ou faturado
+- [Orçamentos](https://nuax.com.br/assets/erp/orcamento.png): aguardando aprovação, convertidos em pedido e valor em negociação
+- [Precificação](https://nuax.com.br/assets/erp/precificacao.png): custo, margem ou markup, preço sugerido e preço atual por produto
+- [Cálculo de preço](https://nuax.com.br/assets/erp/precificacao_form.png): custo + markup ou margem gera preço sugerido, lucro estimado e faixa de atacado e varejo
+- [Gestão de caixas](https://nuax.com.br/assets/erp/caixa.png): abertura, vendas, suprimentos, sangrias, saldo e operador de cada caixa
+- [Relatórios](https://nuax.com.br/assets/erp/relatorios.png): faturamento, ticket médio e gráfico por período, com exportação em CSV
+- [Cadastro de produto](https://nuax.com.br/assets/erp/produtos_form.png): código de barras EAN-13, foto, preço, custo, margem, estoque mínimo e validade
+- [Etiquetas (beta)](https://nuax.com.br/assets/erp/etiqueta.png): seleção de produtos em lote, impressora, tamanho 50×30 mm e prévia
+- [Conferência de etiquetas (beta)](https://nuax.com.br/assets/erp/etiqueta_print.png): lote de etiquetas com nome, código e código de barras antes de imprimir
+- [Compras](https://nuax.com.br/assets/erp/compras.png): compras no período, custo total acumulado e compras aguardando pagamento
+- [Fornecedores](https://nuax.com.br/assets/erp/fornecedores.png): razão social, CNPJ, e-mail, telefone e situação
+- [Nova ordem de serviço](https://nuax.com.br/assets/erp/os_form.png): equipamento, defeito, diagnóstico, peças do estoque, técnico e total
+- [Kanban](https://nuax.com.br/assets/erp/kanban.png): pedidos e ordens organizados por etapa
+- [Clientes e CRM](https://nuax.com.br/assets/erp/clientes.png): cadastro e histórico de compras
+- [Comandas](https://nuax.com.br/assets/erp/comandas.png): comandas abertas com lançamento pelo celular do garçom
+- [Configurações do sistema](https://nuax.com.br/assets/erp/dashboard_configuracao.png): logo e dados da empresa, Pix e garantia, impressoras e licença
+- [Ajuda "Como usar"](https://nuax.com.br/assets/erp/como_usar.png): painel de ajuda presente em cada tela, explicando o que cada opção faz
+
 ## Sobre a NUAX
 
 NUAX Corp é uma empresa brasileira de software para pequenas e médias empresas. Missão: entregar tecnologia de grande empresa com a simplicidade e o preço que uma pequena empresa merece. Suporte em português e preços em reais. https://nuax.com.br/quem-somos.html

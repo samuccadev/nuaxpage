@@ -28,10 +28,26 @@ Os dados ficam no computador do cliente (banco criptografado); a internet é opc
 - [Início](https://nuax.com.br/): visão geral do NUAX ERP, principais módulos e oferta de teste grátis
 - [Módulos](https://nuax.com.br/erp/modulos.html): os 19 módulos (PDV, Estoque, Financeiro, OS, Kanban, Mesas, KDS, Monitor do Cliente, Etiquetas com código de barras beta, Notas Fiscais beta e outros)
 - [Planos e preços](https://nuax.com.br/erp/planos.html): Grátis, Base (R$49,90/mês), Comércio (R$69,90/mês), Assistência (R$69,90/mês) e Food (R$89,90/mês); assinando até 31/12/2026, o valor de lançamento vale para sempre
-- [Como funciona](https://nuax.com.br/erp/como-funciona.html): instalação em 3 passos, backup automático e requisitos do sistema
+- [Como funciona](https://nuax.com.br/erp/como-funciona.html): instalação em 3 passos, configuração da empresa, menu lateral, ajuda "Como usar" em cada tela, backup automático e requisitos do sistema
 - [Perguntas frequentes](https://nuax.com.br/erp/faq.html): offline, dados, licença, trial, atualizações, PIX, nota fiscal e indicação
 - [Download](https://nuax.com.br/erp/download.html): instalador gratuito para Windows com 30 dias de teste (NUAX Studio, 1 computador) e instalador NUAX Entreprise para vários computadores na mesma rede
 - [Quem Somos](https://nuax.com.br/quem-somos.html): a NUAX Corp, missão e valores
+
+## Telas do sistema
+
+Capturas reais do NUAX ERP (1920×1032). Todas as telas estão em https://nuax.com.br/erp/modulos.html
+
+- [Painel inicial](https://nuax.com.br/assets/erp/dashboard.png): faturamento do dia e do mês, lucro, desempenho em 30 dias, radar de validades e estoque baixo
+- [PDV (frente de caixa)](https://nuax.com.br/assets/erp/pdv.png): venda rápida com PIX QR Code, cartão, dinheiro, fiado e pagamento múltiplo
+- [Vendas](https://nuax.com.br/assets/erp/vendas.png): receita bruta, ticket médio, filtros e situação de pagamento
+- [Estoque e produtos](https://nuax.com.br/assets/erp/produtos.png): estoque mínimo, validade e lote
+- [Financeiro](https://nuax.com.br/assets/erp/financeiro.png): contas a pagar e a receber e saldo projetado
+- [Ordens de serviço](https://nuax.com.br/assets/erp/os.png): OS abertas, em execução, concluídas e canceladas
+- [Mesas](https://nuax.com.br/assets/erp/mesa.png): controle de mesas para restaurante, bar e lanchonete
+- [Mesas no celular do garçom (plano Food)](https://nuax.com.br/assets/erp/food_mesa.png): mapa de mesas livres, ocupadas e reservadas por setor, pelo navegador do celular
+- [Comandas no celular (plano Food)](https://nuax.com.br/assets/erp/food_comanda.png): comandas com valor, saldo, impressão e envio para produção
+- [Comanda aberta no celular (plano Food)](https://nuax.com.br/assets/erp/food_comanda_aberta.png): lançar itens, pagamentos, transferir, juntar, separar e fechar a comanda
+- [KDS da cozinha](https://nuax.com.br/assets/erp/painel_cozinha.png): pedidos chegando em tempo real na cozinha
 
 ## Contato
 
